@@ -48,4 +48,12 @@
 
 	</dependencies>
 
+    <distributionManagement>
+        <repository>
+            <id>github</id>
+            <name>GitHub jonathanvs96 Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/jonathanvs96/nezbit-decor-commons-core</url>
+        </repository>
+    </distributionManagement>
+
 </project>
